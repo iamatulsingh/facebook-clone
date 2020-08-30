@@ -1,4 +1,11 @@
+[![built with Reactjs](https://img.shields.io/badge/built%20with-Reactjs-blue.svg)](https://streamlit.io/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+
+![demo](https://github.com/iamatulsingh/facebook-clone/blob/master/ss/facebook_home.png)
+
 
 ## Available Scripts
 
