@@ -1,0 +1,16 @@
+.sidebar {
+    background-color: #f0f2f5;
+    display: flex;
+}
+
+.sidebar > ul{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.sidebar > ul > li:hover {
+    align-items: center;
+    border-radius: 10px;
+    background-color: #cccccc;
+    cursor: pointer;
+}
