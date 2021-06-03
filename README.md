@@ -1,5 +1,7 @@
 [![built with Reactjs](https://img.shields.io/badge/built%20with-Reactjs-blue.svg)](https://streamlit.io/)
 
+This project is just a clone of Facebook webpage. Its not related to any officials of Facebook Inc. This is just for demo to how we can clone any website in reactjs.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
